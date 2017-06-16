@@ -30,7 +30,7 @@ title: Home
              
             <!-- slide text layer -->
             <div class="ms-layer ms-caption" style="top:10px; left:30px;">
-                Flat Roofing Specialists
+                Flat Roofing Specialist
             </div>
              
         </div>
