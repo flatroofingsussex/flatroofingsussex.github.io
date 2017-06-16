@@ -7,7 +7,7 @@ title: Home
 	<!-- slider -->
 	
 	<!-- masterslider -->
-    <div class="master-slider ms-skin-black-2" id="mainSlider">
+    <div class="master-slider ms-skin-black-2 round-skin ms-wk" id="mainSlider">
         <!-- new slide -->
         <div class="ms-slide">
              
