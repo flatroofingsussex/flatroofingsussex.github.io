@@ -1755,9 +1755,12 @@ dl dt {
 .jx-header {
   background: #fff none repeat scroll 0 0;
   /*height: 77px;*/
-  height: 95px;
+  height: 105px;
   position: relative;
   z-index: 999;
+}
+.jx-header .container {
+  top: 5px;
 }
 .jx-header-logo {
   /*padding: 16px;*/
@@ -1793,6 +1796,40 @@ dl dt {
 .jx-header.jx-sticky.fixed .jx-container-slope{ 
   box-shadow:0 5px 5px rgba(0,0,0,0.05);
 }
+
+.logo {
+  text-decoration: none;
+  display: inline-block;
+}
+.logo > span {
+  display: block;
+}
+.logo:hover {
+  text-decoration: none;
+}
+.logo:before {
+  background-color: #003399;
+  content: '';
+  height: 40px;
+  display: block;
+  margin: 0 20px;
+  transform: perspective(100px) rotateX(40deg);
+}
+.logo-h1{
+  color: #003399;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  transform: translateY(-10px)
+}
+.logo-h2 {
+  color: #000;
+  font-family: 'Cabin', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  /*letter-spacing: -0.6px;*/
+  transform: translateY(-15px)
+}
 /*---------------------------------------------------------------
 [5.0 Navigation ]
 ----------------------------------------------------------------*/
@@ -1802,7 +1839,7 @@ dl dt {
 }
 /* Top Menu ==================== */
 .jx-top-menu {
-  background: #1874c1 none repeat scroll 0 0;
+  background: #323232 none repeat scroll 0 0;
   height: 40px;
   overflow: hidden;
   position: relative;
@@ -1810,15 +1847,27 @@ dl dt {
 }
 /* Left Items */
 .jx-top-menu .jx-left-infobar li {
-  border-left: 1px solid #4899dd;
+  /*border-left: 1px solid #ffffff;*/
   display: inline-block;
   font-family: open sans;
   margin: 0;
   padding: 11px;
+  position: relative;
+}
+
+.jx-top-menu .jx-left-infobar li:after {
+  content: '';
+  width: 1px;
+  height: 15px;
+  background-color: #fff;
+  display: inline-block;
+  position: absolute;
+  top: calc(50% - 7px);
+  right: 0;
 }
 
 .jx-top-menu .jx-left-infobar li:last-child{
-  border-right:1px solid #4899dd;
+  /*border-right:1px solid #4899dd;*/
 }
 .jx-top-menu .jx-left-infobar li i{
   margin-right:10px;
@@ -1834,13 +1883,13 @@ dl dt {
   
 }
 .jx-top-menu .jx-right-infobar li {
-  border-left: 1px solid #4899dd;
+  border-left: 1px solid #fff;
   display: inline-block;
   font-family: open sans;
   margin-right: -4px;
 }
 .jx-top-menu .jx-right-infobar li:last-child {
-  border-right: 1px solid #4899dd;
+  border-right: 1px solid #fff;
 }
 .jx-top-menu .jx-right-infobar li i {
   color: #fff;
@@ -2448,7 +2497,45 @@ margin-right: -3px;
 } 
 .jx-caption.jx-caption-small {
   font-size:30px !important;
-} 
+}
+
+.hero-text {
+  display: inline-block;
+  position: absolute;
+  top: 25%;
+  left: 70px;
+  z-index: 100;
+}
+.hero-text > * {
+  background-color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+.hero-text h1 {
+  font: normal 38px 'Oswald', sans-serif;
+  color: #323232;
+  margin-bottom: 0;
+  display: inline-block;
+}
+
+.hero-text h2 {
+  background-color: #fff;
+  font: normal 30px 'Cabin', sans-serif;
+  color: #323232;
+  transform: translateX(30px);
+}
+
+.ms-slide .contact {
+  font: normal 22px 'Cabin', sans-serif;
+  color: #fff;
+  position: absolute;
+  left: 70px;
+  top: 65%;
+  z-index: 101;
+}
+.ms-slide .contact strong {
+  color: #fff;
+}
 /*---------------------------------------------------------------
 [7.0 Blog ]
 ---------------------------------------------------------------*/
