@@ -20,7 +20,7 @@ title: Services
 														<div class="ser-hover panel">
 															<div class="front">
 																<div class="box1">
-																		<img class="img-responsive service-image" src="images/service_6.jpg" alt="Service Image">
+																		<img class="img-responsive service-image" src="images/flat-roof.jpg" alt="Image of Flat Roofing carried out by B Walker Flat Roofing">
 																		<h1>
 																				Flat Roof                                        
 																		</h1>
@@ -68,33 +68,7 @@ title: Services
                               </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-6">
-                            <div class="ser-hover panel">
-                              <div class="front">
-                                <div class="box1">
-                                    <img class="img-responsive service-image" src="images/services/roof_cleaning.jpg" alt="Roof Cleaning">
-                                    <h1>
-                                        Roof Cleaning
-                                    </h1>                                  
-                                </div>
-                              </div>
-                              <div class="back">
-                                <div class="box2">
-                                  <h1>
-                                      Roof Cleaning
-                                      <span class="doted-seperator"></span>
-                                  </h1>
-                                  <p>
-                                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque est nec nisi ornare ultricies. Donec congue in risus id efficitur. Sed gravida ex cursus sem iaculis sodales. Aliquam pellentesque sem ac diam volutpat eleifend. Suspendisse blandit finibus libero a ornare. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris faucibus, diam ac congue viverra, sapien sem posuere sem, et egestas felis arcu ac sem. Sed ac elementum erat.
-                                  </p>
-                                  <a href="services-detail.html" class="readmore-btn" title="Read More">
-                                      <i class="fa fa-external-link"></i>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                        </div>
-
+                    
                         <div class="col-md-4 col-sm-6">
                             <div class="ser-hover panel">
                               <div class="front">
@@ -125,7 +99,7 @@ title: Services
                             <div class="ser-hover panel">
                               <div class="front">
                                 <div class="box1">
-                                    <img class="img-responsive service-image" src="images/services/mastic_asphalt.jpg" alt="Mastic Asphalt">
+                                    <img class="img-responsive service-image" src="images/mastic_asphalt.jpg" alt="Image of Mastic Asphalt work carried out by B Walker Flat Roofing">
                                     <h1>
 																			Mastic Asphalt
                                     </h1>
@@ -135,33 +109,6 @@ title: Services
                                 <div class="box2">
                                   <h1>
 																			Mastic Asphalt
-                                      <span class="doted-seperator"></span>
-                                  </h1>
-                                  <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam pellentesque est nec nisi ornare ultricies. Donec congue in risus id efficitur. Sed gravida ex cursus sem iaculis sodales. Aliquam pellentesque sem ac diam volutpat eleifend. Suspendisse blandit finibus libero a ornare. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris faucibus, diam ac congue viverra, sapien sem posuere sem, et egestas felis arcu ac sem. Sed ac elementum erat.
-                                  </p>
-                                  <a href="services-detail.html" class="readmore-btn" title="Read More">
-                                      <i class="fa fa-external-link"></i>
-                                  </a>
-                                </div>
-                              </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-4 col-sm-6">
-                            <div class="ser-hover panel">
-                              <div class="front">
-                                <div class="box1">
-                                    <img class="img-responsive service-image" src="images/services/green_roofing.jpg" alt="Green Roofing">
-                                    <h1>
-                                        Green Roofing
-                                    </h1>                                  
-                                </div>
-                              </div>
-                              <div class="back">
-                                <div class="box2">
-                                  <h1>
-                                      Green Roofing
                                       <span class="doted-seperator"></span>
                                   </h1>
                                   <p>
