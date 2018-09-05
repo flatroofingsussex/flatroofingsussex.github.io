@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About Us
+permalink: /about-us/
 ---
 
 <div id="welcome">
@@ -34,7 +35,7 @@ title: About Us
                                 </div>
 																<div class="col-md-4 col-sm-12 no-lft-padding">
                                     <div class="welcome-icon">
-                                        <a href="http://trustedtraders.which.co.uk/businesses/b-walker-roofing/"><img src="images/which-trader-seeklogo.com.svg" alt="which trusted trader" /></a>
+                                        <a href="http://trustedtraders.which.co.uk/businesses/b-walker-roofing/"><img src="/images/which-trader-seeklogo.com.svg" alt="which trusted trader" /></a>
                                     </div>
                                 </div>
                             </div>

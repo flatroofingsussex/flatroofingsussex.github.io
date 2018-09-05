@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact Us
+permalink: /contact-us/
 ---
 
 <div id="contact">
@@ -38,7 +39,8 @@ title: Contact Us
                 <div class="item-position">
                   <div class="title">Contact Numbers</div>
                   <div class="discription">
-                    <div> Phone: 01424 812245</div>  
+                    <div> Office: 01424 812245</div>
+                    <div> Mobile: 07802 885476</div>   
                   </div>
                 </div>
                 <!-- Contact Details -->
