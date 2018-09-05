@@ -11,10 +11,10 @@ permalink: /services/
 
                 <div class="sixteen columns">                
                     <div class="jx-section-title-1">
-					   					<div class="jx-title jx-uppercase mb40">Our Services</div>                 
+					   					<h1>Our Services</h1>                 
                     </div> 
                     <p>
-                        We are proud to offer over 40 years’ experience in flat roofing and specialise in mastic asphalt and three-layer, built-up felt roofing, which are both proven products going back over 100 years. We also include fascia guttering and tile repairs for both domestic and commercial clients. As one of the only specialists in mastic asphalt throughout the Sussex and London area, our expert team offers a high quality, competitively priced service that delivers on time, every time. <a href="/contact-us.html">Get in touch with us</a> today for a no obligation quote on the following services:
+                        We are proud to offer over 40 years’ experience in flat roofing and specialise in mastic asphalt and three-layer, built-up felt roofing, which are both proven products going back over 100 years. We also include fascia guttering and tile repairs for both domestic and commercial clients. As one of the only specialists in mastic asphalt throughout the Sussex and London area, our expert team offers a high quality, competitively priced service that delivers on time, every time. <a href="/contact-us/">Get in touch with us</a> today for a no obligation quote on the following services:
                     </p>       
                 </div>
 
@@ -129,7 +129,7 @@ permalink: /services/
                     </div>                    
                 </div>
 
-                <p>Each of our projects is carried out in compliance with the most up-to-date health and safety requirements, and all of our team are City and Guilds qualified to offer you the utmost reassurance. To discuss your needs and have a qualified expert come and survey your property, please <a href="/contact-us.html">contact B Walker Flat Roofing</a> now.</p>
+                <p>Each of our projects is carried out in compliance with the most up-to-date health and safety requirements, and all of our team are City and Guilds qualified to offer you the utmost reassurance. To discuss your needs and have a qualified expert come and survey your property, please <a href="/contact-us/">contact B Walker Flat Roofing</a> now.</p>
 
             </div>
 
