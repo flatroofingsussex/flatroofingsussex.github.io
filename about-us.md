@@ -19,7 +19,7 @@ permalink: /about-us/
                     <div class="welcome-container">
                         <div class="col-md-12 col-sm-6">
                             <div class="welcome-box">
-                                <div class="col-md-8 col-sm-12">
+                                <div class="col-12">
                                     <div class="welcome-info">
                                         <h2>
                                             Over 40 Years Of Experience
@@ -32,12 +32,7 @@ permalink: /about-us/
 																				<br/>
 																				<p><strong>Contact me, in Hastings, East Sussex, to learn more about my first-class roofing company.</strong></p>
                                     </div>
-                                </div>
-																<div class="col-md-4 col-sm-12 no-lft-padding">
-                                    <div class="welcome-icon">
-                                        <a href="http://trustedtraders.which.co.uk/businesses/b-walker-roofing/"><img src="/images/which-trader-seeklogo.com.svg" alt="which trusted trader" /></a>
-                                    </div>
-                                </div>
+                                </div>									
                             </div>
                         </div>
                     </div>
