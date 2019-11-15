@@ -142,7 +142,7 @@ body {
   display: inline-block;
   margin-top: 15px;
   margin-bottom: 15px;
-
+  padding: 25px;
 }
 #welcome .welcome-container .welcome-box .welcome-icon {
   background: #f4bc16;
